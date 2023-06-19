@@ -12,7 +12,8 @@ Welcome to the Verilog Projects repository! This repository contains a collectio
 
 ## Project 1
 
-[Project 1 Name] - [Brief project description]
+Implementation of SAADI-EC - A Quality-Configurable Approximate
+Divider for Energy Efficiency
 
 ### Features
 
